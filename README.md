@@ -9,4 +9,4 @@ problems solved:
 - Longest Common Prefix
 - Group Anagrams
 - Remove Element
-
+- Majority Element
