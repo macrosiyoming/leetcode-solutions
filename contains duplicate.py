@@ -1,9 +1,0 @@
-class Solution:
-    def hasDuplicate(self, nums: List[int]) -> bool:
-        myset = set()
-        for i in nums:
-            if i in myset:
-                return True
-            myset.add(i)
-        return False
-        
