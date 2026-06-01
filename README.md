@@ -11,3 +11,4 @@ problems solved:
 - Remove Element
 - Majority Element
 - Design Hashset
+- Design Hashmap
