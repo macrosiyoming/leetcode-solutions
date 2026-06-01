@@ -10,3 +10,4 @@ problems solved:
 - Group Anagrams
 - Remove Element
 - Majority Element
+- Design Hashset
