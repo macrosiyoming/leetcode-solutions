@@ -12,3 +12,4 @@ problems solved:
 - Majority Element
 - Design Hashset
 - Design Hashmap
+- Sort an Array
