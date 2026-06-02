@@ -1,6 +1,8 @@
 # leetcode-solutions
 my leetcode solution to leetcode problems
 
+- arrays and hashing
+
 problems solved:
 - Concatenation of Array
 - Contains Duplicate
@@ -14,4 +16,3 @@ problems solved:
 - Design Hashmap
 - Sort an Array
 - Sort Colors
-- check out the branches of this repository to check solutions
