@@ -1,0 +1,10 @@
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        cnt = Counter(nums)
+        highest = cnt.most_common(k)
+        final = []
+
+        for x, y in highest:
+            final.append(x)
+
+        return final
