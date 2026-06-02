@@ -14,3 +14,4 @@ problems solved:
 - Design Hashmap
 - Sort an Array
 - Sort Colors
+- check out the branches of this repository to check solutions
