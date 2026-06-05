@@ -17,3 +17,5 @@ problems solved:
 - Sort an Array
 - Sort Colors
 - Top K Frequent Elements
+- Range Sum Query 2D - Immutable
+
